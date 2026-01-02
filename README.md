@@ -1,4 +1,4 @@
-# Onsite-4 E-Commerce Application
+# E-Commerce Application
 
 A modern e-commerce web application built with React, Vite, and Tailwind CSS. This application demonstrates a fully functional frontend with product browsing, category filtering, and product details. It also includes dark mode support and responsive design.
 
@@ -49,6 +49,26 @@ Build for production:
 ```bash
 npm run build
 ```
+
+## Screenshots
+
+### Home Screen
+<div style="display: flex; gap: 10px;">
+  <img src="./Screenshots/Home%20Screen%20(Light).png" alt="Home Screen Light" width="45%" />
+  <img src="./Screenshots/Home%20Screen%20(Dark).png" alt="Home Screen Dark" width="45%" />
+</div>
+
+### Product Details
+<div style="display: flex; gap: 10px;">
+  <img src="./Screenshots/Product%20Details%20(Light).png" alt="Product Details Light" width="45%" />
+  <img src="./Screenshots/Product%20Details%20(Dark).png" alt="Product Details Dark" width="45%" />
+</div>
+
+### Not Found Page
+<div style="display: flex; gap: 10px;">
+  <img src="./Screenshots/Not%20Found%20(Light).png" alt="Not Found Light" width="45%" />
+  <img src="./Screenshots/Not%20Found%20(Dark).png" alt="Not Found Dark" width="45%" />
+</div>
 
 ## Project Structure
 
